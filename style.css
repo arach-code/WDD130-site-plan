@@ -1,0 +1,51 @@
+#background {
+   height: 725px;
+}
+
+body {
+  background-color: rgb(255, 255, 255); 
+}
+header {
+  background-color:rgba(20,30,13, .7);
+}
+nav a:hover {
+  background-color: rgb(41, 89, 248);
+}
+nav a {
+  text-align: center;
+  color: #fcfbfb;
+  text-decoration: none;
+}    
+.icon {
+  width: 80px;
+}
+
+nav a {
+  text-align: center;
+  color: #fcfbfb;
+  text-decoration: none;
+} 
+
+.centered{
+  text-align: center;
+}
+
+
+
+footer p {
+  font-size: 1.2em;
+}   
+
+
+.msg p{
+  padding: 2em 15em;
+}
+
+footer p a:hover {
+  text-decoration: underline;
+
+}    
+     
+
+ 
+                  
